@@ -1,4 +1,7 @@
 /*
+
+// C++11 example
+
 #include <iostream>
 #include <vector>
 
