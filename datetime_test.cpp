@@ -268,7 +268,7 @@ void unix_epoch()
     out << cd.toTime_t() << endl;
 }
 
-int main(void) {
+int test_td(void) {
 //    init_dt();
 //    current_dt();
 //    compare_dt();

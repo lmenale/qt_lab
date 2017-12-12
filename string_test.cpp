@@ -253,7 +253,7 @@ void right_align_str()
     out << field4.rightJustified(width, ' ') << "single\n";
 }
 
-int test(void) {
+int test_str(void) {
 //    sample();
 //    init_str();
 //    access_str();
