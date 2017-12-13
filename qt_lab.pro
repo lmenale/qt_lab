@@ -4,4 +4,5 @@ QT += core
 CONFIG += c++11
 
 SUBDIRS = $$PWD/console \
-          $$PWD/cpp11
+          $$PWD/cpp11 \
+    gui
