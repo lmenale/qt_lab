@@ -1,5 +1,3 @@
-/*
-
 // C++11 example
 
 #include <iostream>
@@ -15,4 +13,3 @@ int main()
 {
     std::vector<Foo> bar(5);
 }
-*/
